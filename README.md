@@ -3,7 +3,9 @@ Week4-Course Project
 
 Download the dataset and extract All the zip file in the working directory under "./data/dataset" folder
 
-run the script on the R console and it would create a secTidySet.txt in the working directory.
+Load dplyr and data.table package in R
+
+Run the script on the R console and it would create a secTidySet.txt in the working directory.
 
 The script reads the datasets from the ./data/dataset directory
 Then assigns the column names to all the tables
